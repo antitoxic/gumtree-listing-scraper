@@ -1,0 +1,10 @@
+{
+    "name": "gumtree",
+    "version": "1.1.1",
+    "dependencies": {
+        "cheerio": "*",
+        "node-html-encoder": "*",
+        "q": "*",
+        "sleep": "*"
+    }
+}
